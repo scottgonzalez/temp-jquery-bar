@@ -1,0 +1,48 @@
+{
+	"title": "The jQuery Bar Plugin",
+	"description": "The second most amazing jQuery plugin ever.",
+	"version": "0.2.5",
+	"keywords": [
+		"foo",
+		"bar",
+		"baz",
+		"metasyntactic"
+	],
+	"homepage": "http://example.com/jquery-bar",
+	"author": {
+		"name": "Scott González",
+		"email": "scott.gonzalez@gmail.com",
+		"url": "http://scottgonzalez.com"
+	},
+	"contributors": [
+		{
+			"name": "Richard Worth",
+			"url: "http://rdworth.org"
+		},
+		{
+			"name": Jake Weary"
+		}
+	],
+	"licenses": [
+		{
+			"type": "ISC",
+			"url": "http://www.opensource.org/licenses/ISC"
+		},
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/MIT"
+		}
+	],
+	"files": [
+		"jquery.bar.js",
+		"jquery.bar.css"
+	],
+	"main": "jquery.bar.js",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/scottgonzalez/temp-jquery-bar.git"
+	},
+	"dependencies": {
+		"jquery": "1.7"
+	}
+}
