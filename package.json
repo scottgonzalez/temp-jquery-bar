@@ -1,7 +1,8 @@
 {
+	"name": "bar",
 	"title": "The jQuery Bar Plugin",
 	"description": "The second most amazing jQuery plugin ever.",
-	"version": "0.2.7",
+	"version": "0.2.8",
 	"keywords": [
 		"foo",
 		"bar",
