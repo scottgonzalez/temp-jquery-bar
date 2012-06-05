@@ -2,7 +2,7 @@
 	"name": "bar",
 	"title": "The jQuery Bar Plugin",
 	"description": "The second most amazing jQuery plugin ever.",
-	"version": "0.2.8",
+	"version": "0.2.9",
 	"keywords": [
 		"foo",
 		"bar",
@@ -34,16 +34,14 @@
 			"url": "http://www.opensource.org/licenses/MIT"
 		}
 	],
-	"files": [
-		"jquery.bar.js",
-		"jquery.bar.css"
-	],
-	"main": "jquery.bar.js",
 	"repository": {
 		"type": "git",
 		"url": "http://github.com/scottgonzalez/temp-jquery-bar.git"
 	},
-	"dependencies": {
-		"jquery": "1.7"
+	"jquery": {
+		"dependencies": {
+			"jquery": "1.7",
+			"jquery.foo": "1.0.0a4"
+		}
 	}
 }
